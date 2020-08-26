@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAPI", "ContactAPI.csproj", "{AE20FC63-6BDF-4788-B319-4A88946AC987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAPI.Tests", "..\ContactAPI.Tests\ContactAPI.Tests.csproj", "{9A607651-4E32-48CF-997C-726C42B9A404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE20FC63-6BDF-4788-B319-4A88946AC987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE20FC63-6BDF-4788-B319-4A88946AC987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE20FC63-6BDF-4788-B319-4A88946AC987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE20FC63-6BDF-4788-B319-4A88946AC987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A607651-4E32-48CF-997C-726C42B9A404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A607651-4E32-48CF-997C-726C42B9A404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A607651-4E32-48CF-997C-726C42B9A404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A607651-4E32-48CF-997C-726C42B9A404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12840C2-37CC-46C1-A1DE-4A56D304C805}
+	EndGlobalSection
+EndGlobal
